@@ -13,5 +13,6 @@ This is a repo for post-server project
 
 ### Running locally
 
-1. From the post-server root folder run `npm start` to start the app
-2. post-server is now running on [http://localhost:9000](http://localhost:9000)
+1. Please make sure **mongodb** is running locally on defalut port (**27017**)
+2. From the post-server root folder run `npm start` to start the app
+3. **post-server** is now running on [http://localhost:9000](http://localhost:9000)
